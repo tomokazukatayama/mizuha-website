@@ -1,0 +1,31 @@
+baseurl = "https://yayoimizuha.web.app/"
+title = "水葉のお部屋"
+theme = "robust"
+
+googleAnalytics = "UA-151906684-1" # Optional
+disqusShortname = "yayoi_mizuha"
+
+[params]
+  description = "みんなで作ったコンテンツを投稿します"
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+  thumbnail = "images/author.png"
+  name = "弥生　水葉"
+  description = "VTuberになりたい中学三年生"
+  twitter = "https://twitter.com/yayoi_mizuha"
+  github = "https://github.com/basiliana"
+  mail = "/mail"
+
+[outputs]
+page = [ "HTML" ] # if you want AMP enable.
+
+[taxonomies]
+tag = "TAG"
+category = "categories"
+
+hasCJKLanguage = true

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイト紹介 on 水葉のお部屋</title>
+    <link>https://basilia-online.firebaseapp.com/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
+    <description>Recent content in サイト紹介 on 水葉のお部屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Apr 2019 17:55:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://basilia-online.firebaseapp.com/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mathjax対応！</title>
+      <link>https://basilia-online.firebaseapp.com/mathjax/</link>
+      <pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/mathjax/</guid>
+      <description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
+$$F(x) = \sum_{n=1}^{N} \frac{1}{N}$$
+$$ e^{i\pi}+1=0$$</description>
+    </item>
+    
+    <item>
+      <title>Image Source</title>
+      <link>https://basilia-online.firebaseapp.com/image_source/</link>
+      <pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/image_source/</guid>
+      <description>私たちがサイト用に持ってくる画像ソースです。　 　Unsplash.com Beautiful, free photos. Gifted by the world’s most generous community of photographers. 🎁
+pixabay.com 魅力的なフリー画像 寛大なコミュニティが共有する 1.6 百万枚以上の画像や動画を発見しましょう。
+gratisography.com Quirky, Creative, Always Free Photos. The world&amp;rsquo;s quirkiest collection of free high-resolution pictures, comprised of the world&amp;rsquo;s best, most creative images - photos you just won&amp;rsquo;t find anywhere else. All completely free of copyright restrictions.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://basilia-online.firebaseapp.com/hello-world/</link>
+      <pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/hello-world/</guid>
+      <description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description>
+    </item>
+    
+  </channel>
+</rss>

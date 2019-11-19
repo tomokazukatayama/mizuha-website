@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>水葉のお部屋</title>
+    <link>https://basilia-online.firebaseapp.com/</link>
+    <description>Recent content on 水葉のお部屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Apr 2019 18:45:52 +0900</lastBuildDate>
+    
+	<atom:link href="https://basilia-online.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown_test</title>
+      <link>https://basilia-online.firebaseapp.com/markdown_test/</link>
+      <pubDate>Sat, 20 Apr 2019 18:45:52 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/markdown_test/</guid>
+      <description>  Hello
+ss
+  タスク1 タスク2  協調
+協調
+打消し
+イタリック
+イタリック
+#ffce44 rgb(255,0,0) rgba(0,255,0,0.4) hsl(100, 10%, 10%) hsla(100, 24%, 40%, 0.5)
+cd src mkdir build cd build cmake .. make sudo make install  </description>
+    </item>
+    
+    <item>
+      <title>Mathjax対応！</title>
+      <link>https://basilia-online.firebaseapp.com/mathjax/</link>
+      <pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/mathjax/</guid>
+      <description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
+$$F(x) = \sum_{n=1}^{N} \frac{1}{N}$$
+$$ e^{i\pi}+1=0$$</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu19.04　リリース！</title>
+      <link>https://basilia-online.firebaseapp.com/ubuntu/</link>
+      <pubDate>Sat, 20 Apr 2019 16:59:20 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/ubuntu/</guid>
+      <description>とうとうUbuntu19.04がリリースされましたね。
+でもどうやら僕のPCではうまく動作しないようです。
+    CPU GPU Memory     Ryzen 2400G Radeon Vega 11 16GB     Linux カーネルはRyzen 2400G に対応済みです。Btrfsにしたのが問題だったのでしょうか？</description>
+    </item>
+    
+    <item>
+      <title>Image Source</title>
+      <link>https://basilia-online.firebaseapp.com/image_source/</link>
+      <pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/image_source/</guid>
+      <description>私たちがサイト用に持ってくる画像ソースです。　 　Unsplash.com Beautiful, free photos. Gifted by the world’s most generous community of photographers. 🎁
+pixabay.com 魅力的なフリー画像 寛大なコミュニティが共有する 1.6 百万枚以上の画像や動画を発見しましょう。
+gratisography.com Quirky, Creative, Always Free Photos. The world&amp;rsquo;s quirkiest collection of free high-resolution pictures, comprised of the world&amp;rsquo;s best, most creative images - photos you just won&amp;rsquo;t find anywhere else. All completely free of copyright restrictions.</description>
+    </item>
+    
+    <item>
+      <title>Mailto</title>
+      <link>https://basilia-online.firebaseapp.com/mail/</link>
+      <pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/mail/</guid>
+      <description>メールはこちら
+basilia.gamemaker[a]gmail.com
+Image by ribkhan on Pixabay</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://basilia-online.firebaseapp.com/privacy-policy/</link>
+      <pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/privacy-policy/</guid>
+      <description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
+このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
+このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
+この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
+この規約に関して、詳しくはこちらをクリックしてください。 https://www.google.com/analytics/terms/jp.html
+当サイトへのコメントについて 当サイトでは、コメントは管理人の裁量によって承認せず、公開する事があります。 免責事項 当サイトで掲載している画像の著作権・肖像権等は各権利所有者に帰属致します。権利を侵害する目的ではございません。
+記事の内容や掲載画像等に問題がございましたら、各権利所有者様本人が直接メールでご連絡下さい。確認後、対応させて頂きます。
+当サイトからリンクやバナーなどによって他のサイトに移動された場合、移動先サイトで提供される情報、サービス等について一切の責任を負いません。
+当サイトのコンテンツ・情報につきまして、可能な限り正確な情報を掲載するよう努めておりますが、誤情報が入り込んだり、情報が古くなっていることもございます。
+当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
+運営者　: Basilia Tinqle
+初出掲載：2019年3月12日</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://basilia-online.firebaseapp.com/hello-world/</link>
+      <pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate>
+      
+      <guid>https://basilia-online.firebaseapp.com/hello-world/</guid>
+      <description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description>
+    </item>
+    
+  </channel>
+</rss>
