@@ -9,9 +9,7 @@ ss
 #ffce44 rgb(255,0,0) rgba(0,255,0,0.4) hsl(100, 10%, 10%) hsla(100, 24%, 40%, 0.5)
 cd src mkdir build cd build cmake .. make sudo make install</description></item><item><title>Mathjax対応！</title><link>https://yayoimizuha.web.app/mathjax/</link><pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate><guid>https://yayoimizuha.web.app/mathjax/</guid><description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
 $$F(x) = \sum_{n=1}^{N} \frac{1}{N}$$
-$$ e^{i\pi}+1=0$$</description></item><item><title>Ubuntu19.04　リリース！</title><link>https://yayoimizuha.web.app/ubuntu/</link><pubDate>Sat, 20 Apr 2019 16:59:20 +0900</pubDate><guid>https://yayoimizuha.web.app/ubuntu/</guid><description>とうとうUbuntu19.04がリリースされましたね。
-でもどうやら僕のPCではうまく動作しないようです。
-CPU GPU Memory Ryzen 2400G Radeon Vega 11 16GB Linux カーネルはRyzen 2400G に対応済みです。Btrfsにしたのが問題だったのでしょうか？</description></item><item><title>サイト内画像について</title><link>https://yayoimizuha.web.app/image_source/</link><pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate><guid>https://yayoimizuha.web.app/image_source/</guid><description>サイト内の画像について 当サイトで使用している画像・映像は
+$$ e^{i\pi}+1=0$$</description></item><item><title>サイト内画像について</title><link>https://yayoimizuha.web.app/image_source/</link><pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate><guid>https://yayoimizuha.web.app/image_source/</guid><description>サイト内の画像について 当サイトで使用している画像・映像は
 ・自分でカメラ等で撮影したもの
 ・VRoid Studio等のソフトウェアで作成したもの
 ・下記サイトでフリーで公開されているもの
