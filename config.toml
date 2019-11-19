@@ -6,7 +6,7 @@ googleAnalytics = "UA-151906684-1" # Optional
 disqusShortname = "yayoi_mizuha"
 
 [params]
-  description = "みんなで作ったコンテンツを投稿します"
+  description = "将来を夢見て今できることを頑張ろう"
   dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
