@@ -16,7 +16,7 @@ disqusShortname = "yayoi_mizuha"
 [params.author]
   thumbnail = "images/author.png"
   name = "弥生　水葉"
-  description = "VTuberになりたい中学三年生"
+  description = "<a href='/whoami'>VTuberになりたい中学三年生です。。</a>"
   twitter = "https://twitter.com/yayoi_mizuha"
   github = "https://github.com/tomokazukatayama"
   mail = "/mail"
