@@ -1,9 +1,9 @@
 ---
-title: "Markdown_test"
+title: "マークダウンのテスト"
 date: 2019-04-20T18:45:52+09:00
 draft: false
 categories:
-    - "未分類"
+    - "Webコンテンツ制作"
 thumbnail: images/markdown-logo.svg
 ---
 * * *

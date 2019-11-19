@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "プライバシーポリシー"
 date: 2019-02-06T16:42:04+09:00
 draft: false
 categories:
@@ -43,6 +43,6 @@ categories:
 
 当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
 
-運営者　: Basilia Tinqle
+運営者　: 弥生　水葉
 
 初出掲載：2019年3月12日
