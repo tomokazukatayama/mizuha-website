@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INFO on 水葉のお部屋</title>
-    <link>https://basilia-online.firebaseapp.com/categories/info/</link>
+    <link>https://yayoimizuha.web.app/categories/info/</link>
     <description>Recent content in INFO on 水葉のお部屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 11 Mar 2019 02:10:50 +0000</lastBuildDate>
     
-	<atom:link href="https://basilia-online.firebaseapp.com/categories/info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yayoimizuha.web.app/categories/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mailto</title>
-      <link>https://basilia-online.firebaseapp.com/mail/</link>
+      <link>https://yayoimizuha.web.app/mail/</link>
       <pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate>
       
-      <guid>https://basilia-online.firebaseapp.com/mail/</guid>
+      <guid>https://yayoimizuha.web.app/mail/</guid>
       <description>メールはこちら
 basilia.gamemaker[a]gmail.com
 Image by ribkhan on Pixabay</description>
@@ -23,10 +23,10 @@ Image by ribkhan on Pixabay</description>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://basilia-online.firebaseapp.com/privacy-policy/</link>
+      <link>https://yayoimizuha.web.app/privacy-policy/</link>
       <pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate>
       
-      <guid>https://basilia-online.firebaseapp.com/privacy-policy/</guid>
+      <guid>https://yayoimizuha.web.app/privacy-policy/</guid>
       <description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
 このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
