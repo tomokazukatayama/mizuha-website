@@ -2,12 +2,6 @@
 <html>
   <head>
     {{ partial "meta.html" . }}
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
-    {{ else }}
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
-    {{ end }}
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
     {{ block "meta" . }}{{ end }}
@@ -63,6 +57,22 @@
         }
       });
       </script>
+      <script type="text/javascript">
+        var delaycss = document.createElement('link');
+        delaycss.rel = 'stylesheet';
+        delaycss.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css';
+        document.head.appendChild(delaycss);
+    </script>
+    {{ with .Site.Params.googlefonts }}
+    <script type="text/javascript">
+        var delaycss = document.createElement('link');
+        delaycss.rel = 'stylesheet';
+        delaycss.href = '{{ . }}';
+        document.head.appendChild(delaycss);
+    </script>
+    {{ else }}
+    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    {{ end }}
   </body>
 </html>
 

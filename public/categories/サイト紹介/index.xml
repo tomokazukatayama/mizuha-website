@@ -1,3 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>サイト紹介 on 水葉のお部屋</title><link>https://yayoimizuha.web.app/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/</link><description>Recent content in サイト紹介 on 水葉のお部屋</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 20 Apr 2019 17:55:11 +0900</lastBuildDate><atom:link href="https://yayoimizuha.web.app/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Mathjax対応！</title><link>https://yayoimizuha.web.app/mathjax/</link><pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate><guid>https://yayoimizuha.web.app/mathjax/</guid><description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイト紹介 on 水葉のお部屋</title>
+    <link>https://yayoimizuha.web.app/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/</link>
+    <description>Recent content in サイト紹介 on 水葉のお部屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Apr 2019 17:55:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://yayoimizuha.web.app/categories/%E3%82%B5%E3%82%A4%E3%83%88%E7%B4%B9%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mathjax対応！</title>
+      <link>https://yayoimizuha.web.app/mathjax/</link>
+      <pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate>
+      
+      <guid>https://yayoimizuha.web.app/mathjax/</guid>
+      <description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
 $$F(x) = \sum_{n=1}^{N} \frac{1}{N}$$
-$$ e^{i\pi}+1=0$$</description></item><item><title>Hello World</title><link>https://yayoimizuha.web.app/hello-world/</link><pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate><guid>https://yayoimizuha.web.app/hello-world/</guid><description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description></item></channel></rss>
+$$ e^{i\pi}+1=0$$</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://yayoimizuha.web.app/hello-world/</link>
+      <pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate>
+      
+      <guid>https://yayoimizuha.web.app/hello-world/</guid>
+      <description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description>
+    </item>
+    
+  </channel>
+</rss>
