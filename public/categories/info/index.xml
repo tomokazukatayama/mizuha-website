@@ -1,61 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>INFO on 水葉のお部屋</title>
-    <link>https://yayoimizuha.web.app/categories/info/</link>
-    <description>Recent content in INFO on 水葉のお部屋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Nov 2019 01:23:17 +0900</lastBuildDate>
-    
-	<atom:link href="https://yayoimizuha.web.app/categories/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>自己紹介</title>
-      <link>https://yayoimizuha.web.app/whoami/</link>
-      <pubDate>Wed, 20 Nov 2019 01:23:17 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/whoami/</guid>
-      <description>水葉ってだれ? VTuberになりたかった中学三年生です。お金や時間の都合で今は活動できませんが、他にマルチメディアや3Dモデル制作、その他色々な制作をしています。
-プログラミング、システム構築など、大人になってからの資産になるような技術も身に着けたいですね。</description>
-    </item>
-    
-    <item>
-      <title>サイト内画像について</title>
-      <link>https://yayoimizuha.web.app/image_source/</link>
-      <pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/image_source/</guid>
-      <description>サイト内の画像について 当サイトで使用している画像・映像は
- ・自分でカメラ等で撮影したもの
-  ・VRoid Studio等のソフトウェアで作成したもの
-  ・下記サイトでフリーで公開されているもの
- を使用しています。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>INFO on 水葉のお部屋</title><link>https://yayoimizuha.web.app/categories/info/</link><description>Recent content in INFO on 水葉のお部屋</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 20 Nov 2019 01:23:17 +0900</lastBuildDate><atom:link href="https://yayoimizuha.web.app/categories/info/index.xml" rel="self" type="application/rss+xml"/><item><title>自己紹介</title><link>https://yayoimizuha.web.app/whoami/</link><pubDate>Wed, 20 Nov 2019 01:23:17 +0900</pubDate><guid>https://yayoimizuha.web.app/whoami/</guid><description>水葉ってだれ? VTuberになりたかった中学三年生です。お金や時間の都合で今は活動できませんが、他にマルチメディアや3Dモデル制作、その他色々な制作をしています。
+プログラミング、システム構築など、大人になってからの資産になるような技術も身に着けたいですね。</description></item><item><title>サイト内画像について</title><link>https://yayoimizuha.web.app/image_source/</link><pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate><guid>https://yayoimizuha.web.app/image_source/</guid><description>サイト内の画像について 当サイトで使用している画像・映像は
+・自分でカメラ等で撮影したもの
+・VRoid Studio等のソフトウェアで作成したもの
+・下記サイトでフリーで公開されているもの
+を使用しています。
 私がサイト用に持ってくる画像ソースです。　 　Unsplash.com Beautiful, free photos. Gifted by the world’s most generous community of photographers. 🎁
 pixabay.com 魅力的なフリー画像 寛大なコミュニティが共有する 1.6 百万枚以上の画像や動画を発見しましょう。
-gratisography.com Quirky, Creative, Always Free Photos. The world&#39;s quirkiest collection of free high-resolution pictures, comprised of the world&#39;s best, most creative images - photos you just won&#39;t find anywhere else. All completely free of copyright restrictions.</description>
-    </item>
-    
-    <item>
-      <title>ご連絡はこちら</title>
-      <link>https://yayoimizuha.web.app/mail/</link>
-      <pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/mail/</guid>
-      <description>メールはこちら
+gratisography.com Quirky, Creative, Always Free Photos. The world's quirkiest collection of free high-resolution pictures, comprised of the world's best, most creative images - photos you just won't find anywhere else. All completely free of copyright restrictions.</description></item><item><title>ご連絡はこちら</title><link>https://yayoimizuha.web.app/mail/</link><pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate><guid>https://yayoimizuha.web.app/mail/</guid><description>メールはこちら
 poko.peko.tomo[a]icloud.com
 Twitterはこちら
 @yayoi_mizuha
-​ Imageby ribkhanon Pixabay</description>
-    </item>
-    
-    <item>
-      <title>プライバシーポリシー</title>
-      <link>https://yayoimizuha.web.app/privacy-policy/</link>
-      <pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/privacy-policy/</guid>
-      <description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
+​ Imageby ribkhanon Pixabay</description></item><item><title>プライバシーポリシー</title><link>https://yayoimizuha.web.app/privacy-policy/</link><pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate><guid>https://yayoimizuha.web.app/privacy-policy/</guid><description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
 このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
 この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
@@ -66,8 +21,4 @@ Twitterはこちら
 当サイトのコンテンツ・情報につきまして、可能な限り正確な情報を掲載するよう努めておりますが、誤情報が入り込んだり、情報が古くなっていることもございます。
 当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
 運営者　: 弥生　水葉
-初出掲載：2019年3月12日</description>
-    </item>
-    
-  </channel>
-</rss>
+初出掲載：2019年3月12日</description></item></channel></rss>
