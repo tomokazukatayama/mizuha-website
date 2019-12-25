@@ -3,7 +3,7 @@ title: "マークダウンのテスト"
 date: 2019-04-20T18:45:52+09:00
 draft: false
 categories:
-    - "Webコンテンツ制作"
+    - "Hugo"
 thumbnail: images/markdown-logo.svg
 ---
 * * *

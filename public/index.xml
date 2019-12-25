@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>水葉のお部屋</title><link>https://yayoimizuha.web.app/</link><description>Recent content on 水葉のお部屋</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 13 Dec 2019 01:57:56 +0900</lastBuildDate><atom:link href="https://yayoimizuha.web.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Eastboy</title><link>https://yayoimizuha.web.app/eastboy/</link><pubDate>Fri, 13 Dec 2019 01:57:56 +0900</pubDate><guid>https://yayoimizuha.web.app/eastboy/</guid><description>Eastboyの男の子版があった！ まあ、興味のない人にとってはそれはそうで終わりなんですが、男の子もEASTBOYのあのハイセンスな服を着れるってのはうれしい！
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>水葉のお部屋</title><link>https://yayoimizuha.web.app/</link><description>Recent content on 水葉のお部屋</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 26 Dec 2019 03:12:19 +0900</lastBuildDate><atom:link href="https://yayoimizuha.web.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Vtuberになりたいって話とその詳細</title><link>https://yayoimizuha.web.app/vtuber-introduction/</link><pubDate>Thu, 26 Dec 2019 03:12:19 +0900</pubDate><guid>https://yayoimizuha.web.app/vtuber-introduction/</guid><description>VTuberになりたい！ VTuber活動をしたいのですが、モデリングは中の人の努力次第ですし、(ある程度見通しも立ってきた。)ワールド生成(？)もいかに頑張って手を込めて作るかが勝負ですよね。こうなると、歌ってみた系、例えばセイギユメカさんみたいな感じになると思います。これもきれいだし、かわいいし、良いとは思いますがもっと現実世界と行ったり来たりするXTuber(例:ナギナミちゃんねる)みたいなのをやりたいと思っているんです。
+その夢を阻むもの モーショントラッキング用のハードウェア
+↑これが一番お金かかります。これだけで１０万超す。 Blender&amp;amp;Unityの敷居の高さ
+↑こればかりは頑張るしかない。特に問題視はしていません。 声
+↑中の人は戸籍上男性です。 時間がない
+↑対策として集中して勉強する癖をつけるなど。(学業はおろそかにできませんからね)</description></item><item><title>Unreal EngineをLinuxにインストールする。</title><link>https://yayoimizuha.web.app/unreal_install_linux/</link><pubDate>Thu, 26 Dec 2019 01:37:20 +0900</pubDate><guid>https://yayoimizuha.web.app/unreal_install_linux/</guid><description>Unreal EngineをLinuxにインストールする方法。 下準備 まず、Epic Gamesのサイトでユーザー登録を済ませ、メール認証をしておきましょう。それができたら、接続済みアカウントでGitHubと連携します。そうするとGitHubでInvitation to join Epic GamesというふうにEpic Gamesからリポジトリに招待されます。
+ソースコードのダウンロード&amp;amp;ビルド 招待されたらGitHubのReleasesタブからLatestリリースを落としてきて展開します。
+tar xvf UnrealEngine-4.24.1-release.tar.gz
+./Setup.sh #諸々をダウンロード(10GB以上あるので注意)
+./GenerateProjectFiles.sh
+make #-jオプション不要、すごい時間かかるので注意
+ついに実行！ ソフトウェアのビルドの醍醐味は実行できた時の達成感ですよね。実行は
+cd Engine/Binaries/Linux
+./UE4Editor
+です。</description></item><item><title>Eastboy</title><link>https://yayoimizuha.web.app/eastboy/</link><pubDate>Fri, 13 Dec 2019 01:57:56 +0900</pubDate><guid>https://yayoimizuha.web.app/eastboy/</guid><description>Eastboyの男の子版があった！ まあ、興味のない人にとってはそれはそうで終わりなんですが、男の子もEASTBOYのあのハイセンスな服を着れるってのはうれしい！
 高いけどね…
 リンク：EASTBOY SCHOOL MENS</description></item><item><title>モニター欲しい!</title><link>https://yayoimizuha.web.app/iwantmonitor/</link><pubDate>Fri, 13 Dec 2019 01:25:22 +0900</pubDate><guid>https://yayoimizuha.web.app/iwantmonitor/</guid><description>悲惨な現状 今ディスプレイのサイズが1280x1024なんですが、これだと何をするにも人権がないので,ディスプレイを買おうと思います。
 ディスプレイは必ず使う上に割と長く使えるものだと思うので、なるべくいいものを選びたいですね。
