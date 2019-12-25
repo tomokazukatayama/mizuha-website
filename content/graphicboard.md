@@ -26,8 +26,14 @@ thumbnail: /images/graphicboard.jpg
 | RTX 2070       | Turing         | 2304   | 1620     | 8          |
 | RTX 2070 SUPER | Turing         | 2560   | 1770     | 8          |
 | RTX 2080       | Turing         | 2944   | 1710     | 8          |
-| RTX 2080 SUPER | Turing         | 3072   | 1815     | 8          |
+| RTX 2080 SUPER | Turing         | 3072   | 1815     | 11         |
 
 とりあえず16XX番台はCudaを削って安くしている感じなのでアウト…
 
-どうしようかな
+どうしようかな…
+
+​    
+
+[2019/12/13追記]
+
+RTX 2070Superが良さげ。

@@ -1,3 +1,9 @@
+.author-description > a:nth-child(1){
+	color: black;
+	text-decoration: underline dotted skyblue;
+	text-align: center;
+}
+
 /* Form */
 	form {
 		margin: 0 0 2em 0;
