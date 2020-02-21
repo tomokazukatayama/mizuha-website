@@ -24,3 +24,6 @@ thumbnail: /images/monitor.svg
 あと、黒がきれいでコントラスト比の大きいディスプレイにしたいです。種類で言えばAH-IPSとかかな？
 
 画像: <a href="https://pixabay.com/ja/users/janjf93-3084263/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2004457">janjf93</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2004457">Pixabay</a>からの画像
+
+※2020年2月22日　追記
+LGの27UL650-Wを購入。IPSは非常に鮮やかで快適です。解像度が急に10倍になるとすごいインパクトですね。

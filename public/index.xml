@@ -1,183 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>水葉のお部屋</title>
-    <link>https://yayoimizuha.web.app/</link>
-    <description>Recent content on 水葉のお部屋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Feb 2020 23:32:29 +0900</lastBuildDate>
-    
-	<atom:link href="https://yayoimizuha.web.app/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>GIGA スクール構想について思うところ</title>
-      <link>https://yayoimizuha.web.app/school-programming/</link>
-      <pubDate>Thu, 20 Feb 2020 23:32:29 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/school-programming/</guid>
-      <description>まず、GIGA スクール構想とは    公式のYouTubeプロモーション動画です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>水葉のお部屋</title><link>https://yayoimizuha.web.app/</link><description>Recent content on 水葉のお部屋</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 20 Feb 2020 23:32:29 +0900</lastBuildDate><atom:link href="https://yayoimizuha.web.app/index.xml" rel="self" type="application/rss+xml"/><item><title>GIGA スクール構想について思うところ</title><link>https://yayoimizuha.web.app/school-programming/</link><pubDate>Thu, 20 Feb 2020 23:32:29 +0900</pubDate><guid>https://yayoimizuha.web.app/school-programming/</guid><description>まず、GIGA スクール構想とは 公式のYouTubeプロモーション動画です。
 そもそもGIGAスクール構想は何の略？
- GIGA = Global and Innovation Gateway for All
+GIGA = Global and Innovation Gateway for All
 引用=&amp;gt;GIGAスクール構想の実現について：文部科学省
- 令和の時代の新しい学校づくり わかりやすく言うと新時代の学びをサポートするためのICT教育向けのガイドラインです。
+令和の時代の新しい学校づくり わかりやすく言うと新時代の学びをサポートするためのICT教育向けのガイドラインです。
 校内ネットワーク整備やセキュリティポリシーについてまとめられています。
- 学習用端末の標準仕様 校内LAN(WI-FIの場合もあり)(LTEを導入する場合もあります) 都道府県規模で一括購入することによってコスパ向上を図ることも計画の一つ 一気に大量の需要を生み出すことで一気に売り手市場に持ち込み学校側に有利な契約を行える クラウドサービスで一元管理　=&amp;gt;　政府が打ち出した「クラウド・バイ・デフォルトの原則」1 障碍のある方でも接しやすい(障碍の程度と種類による)  ここから考えられること  クラウドによって管理、把握しやすくなる。これなら、家でもクラウドで宿題配信みたいなことができるだろうか。 図や字をを拡大したり、体が不自由でも友達と協力してビデオ通話で探検なんて言うのもあり得る。  技術面で 今の時代、教師よりコンピューターに詳しい生徒が各学年にいるのは珍しくないでしょう。先生に気づかれないように悪いことをするやつだっています。現に自分のクラスにもそういうやつがいて、(幸い？ばれてはいないようですが)
+学習用端末の標準仕様 校内LAN(WI-FIの場合もあり)(LTEを導入する場合もあります) 都道府県規模で一括購入することによってコスパ向上を図ることも計画の一つ 一気に大量の需要を生み出すことで一気に売り手市場に持ち込み学校側に有利な契約を行える クラウドサービスで一元管理　=&amp;gt;　政府が打ち出した「クラウド・バイ・デフォルトの原則」1 障碍のある方でも接しやすい(障碍の程度と種類による) ここから考えられること クラウドによって管理、把握しやすくなる。これなら、家でもクラウドで宿題配信みたいなことができるだろうか。 図や字をを拡大したり、体が不自由でも友達と協力してビデオ通話で探検なんて言うのもあり得る。 技術面で 今の時代、教師よりコンピューターに詳しい生徒が各学年にいるのは珍しくないでしょう。先生に気づかれないように悪いことをするやつだっています。現に自分のクラスにもそういうやつがいて、(幸い？ばれてはいないようですが)
 だからといって、注意して止めるかといわれるとそんなことはないでしょうし、デジタル関連でやらかすと一生記録が残ってしまったり、高額なものを破壊してしまいがちなので、1度くらいは失敗してそこから学べばいいというわけにもいきません。
 大人になってもITリテラシーは活きてくるので、小さいころからのIT,メディアリテラシー教育は大事になると思いますね。
 また、そういうやらかす生徒は好奇心による動機と、先生を煩わせたいという人格がちょっとアレな動機と二通りありますが、前者は他の場で廃PCを分解する機会を設けたり、未然に防ぐことはできると思います。好奇心をつぶしてしまうのはもったいないので、いい方向に伸ばすことを考えるのはよく聞く話ですね。後者は、普段から素行が悪い場合が多いので、注意して監視するくらいしか方法はないでしょうか&amp;hellip;
 採用が見込まれるコンピューターのスペックに関しては以下の画像を見てください。 GIGAスクール構想の実現パッケージ（PDF）
 お世辞にもあまりいいスペックのものではないです。特に中学生でスマホやタブレット端末を家で使い始めると、それとのスペックの差が顕著になり、多少は不満の声も挙がるのも避けられないと思います。特に技術科部員や自作PC勢は割と大きな声を上げるのではないでしょうか。行政もあまり余裕がないので難しい話ですね。国産縛りがあったりすると割高になるのでなおさらでしょう。
-  「クラウド・バイ・デフォルトの原則」（PDF） &amp;#x21a9;&amp;#xfe0e;
-   </description>
-    </item>
-    
-    <item>
-      <title>Vtuberになりたいって話とその詳細</title>
-      <link>https://yayoimizuha.web.app/vtuber-introduction/</link>
-      <pubDate>Thu, 26 Dec 2019 03:12:19 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/vtuber-introduction/</guid>
-      <description>VTuberになりたい！ VTuber活動をしたいのですが、モデリングは中の人の努力次第ですし、(ある程度見通しも立ってきた。)ワールド生成(？)もいかに頑張って手を込めて作るかが勝負ですよね。こうなると、歌ってみた系、例えばセイギユメカさんみたいな感じになると思います。これもきれいだし、かわいいし、良いとは思いますがもっと現実世界と行ったり来たりするXTuber(例:ナギナミちゃんねる)みたいなのをやりたいと思っているんです。
-その夢を阻むもの  モーショントラッキング用のハードウェア
+「クラウド・バイ・デフォルトの原則」（PDF） &amp;#x21a9;&amp;#xfe0e;</description></item><item><title>Vtuberになりたいって話とその詳細</title><link>https://yayoimizuha.web.app/vtuber-introduction/</link><pubDate>Thu, 26 Dec 2019 03:12:19 +0900</pubDate><guid>https://yayoimizuha.web.app/vtuber-introduction/</guid><description>VTuberになりたい！ VTuber活動をしたいのですが、モデリングは中の人の努力次第ですし、(ある程度見通しも立ってきた。)ワールド生成(？)もいかに頑張って手を込めて作るかが勝負ですよね。こうなると、歌ってみた系、例えばセイギユメカさんみたいな感じになると思います。これもきれいだし、かわいいし、良いとは思いますがもっと現実世界と行ったり来たりするXTuber(例:ナギナミちゃんねる)みたいなのをやりたいと思っているんです。
+その夢を阻むもの モーショントラッキング用のハードウェア
 ↑これが一番お金かかります。これだけで１０万超す。 Blender&amp;amp;Unityの敷居の高さ
 ↑こればかりは頑張るしかない。特に問題視はしていません。 声
 ↑中の人は戸籍上男性です。 時間がない
-↑対策として集中して勉強する癖をつけるなど。(学業はおろそかにできませんからね)  </description>
-    </item>
-    
-    <item>
-      <title>Unreal EngineをLinuxにインストールする。</title>
-      <link>https://yayoimizuha.web.app/unreal_install_linux/</link>
-      <pubDate>Thu, 26 Dec 2019 01:37:20 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/unreal_install_linux/</guid>
-      <description>Unreal EngineをLinuxにインストールする方法 下準備 まず、Epic Gamesのサイトでユーザー登録を済ませ、メール認証をしておきましょう。それができたら、接続済みアカウントでGitHubと連携します。そうするとGitHubでInvitation to join Epic GamesというふうにEpic Gamesからリポジトリに招待されます。
+↑対策として集中して勉強する癖をつけるなど。(学業はおろそかにできませんからね)</description></item><item><title>Unreal EngineをLinuxにインストールする。</title><link>https://yayoimizuha.web.app/unreal_install_linux/</link><pubDate>Thu, 26 Dec 2019 01:37:20 +0900</pubDate><guid>https://yayoimizuha.web.app/unreal_install_linux/</guid><description>Unreal EngineをLinuxにインストールする方法 下準備 まず、Epic Gamesのサイトでユーザー登録を済ませ、メール認証をしておきましょう。それができたら、接続済みアカウントでGitHubと連携します。そうするとGitHubでInvitation to join Epic GamesというふうにEpic Gamesからリポジトリに招待されます。
 ソースコードのダウンロード&amp;amp;ビルド 招待されたらGitHubのReleasesタブからLatestリリースを落としてきて展開します。
-tar xvf UnrealEngine-4.24.1-release.tar.gz./Setup.sh #諸々をダウンロード(10GB以上あるので注意)./GenerateProjectFiles.shmake #-jオプション不要、すごい時間かかるので注意ついに実行 ソフトウェアのビルドの醍醐味は実行できた時の達成感ですよね。実行は
-cd Engine/Binaries/Linux./UE4Editorです。</description>
-    </item>
-    
-    <item>
-      <title>Eastboy</title>
-      <link>https://yayoimizuha.web.app/eastboy/</link>
-      <pubDate>Fri, 13 Dec 2019 01:57:56 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/eastboy/</guid>
-      <description>Eastboyの男の子版があった！ まあ、興味のない人にとってはそれはそうで終わりなんですが、男の子もEASTBOYのあのハイセンスな服を着れるってのはうれしい！
+tar xvf UnrealEngine-4.24.1-release.tar.gz
+./Setup.sh #諸々をダウンロード(10GB以上あるので注意)
+./GenerateProjectFiles.sh
+make #-jオプション不要、すごい時間かかるので注意
+ついに実行 ソフトウェアのビルドの醍醐味は実行できた時の達成感ですよね。実行は
+cd Engine/Binaries/Linux
+./UE4Editor
+です。</description></item><item><title>Eastboy</title><link>https://yayoimizuha.web.app/eastboy/</link><pubDate>Fri, 13 Dec 2019 01:57:56 +0900</pubDate><guid>https://yayoimizuha.web.app/eastboy/</guid><description>Eastboyの男の子版があった！ まあ、興味のない人にとってはそれはそうで終わりなんですが、男の子もEASTBOYのあのハイセンスな服を着れるってのはうれしい！
 高いけどね…
-リンク：EASTBOY SCHOOL MENS</description>
-    </item>
-    
-    <item>
-      <title>モニター欲しい!</title>
-      <link>https://yayoimizuha.web.app/iwantmonitor/</link>
-      <pubDate>Fri, 13 Dec 2019 01:25:22 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/iwantmonitor/</guid>
-      <description>悲惨な現状 今ディスプレイのサイズが1280x1024なんですが、これだと何をするにも人権がないので,ディスプレイを買おうと思います。
+リンク：EASTBOY SCHOOL MENS</description></item><item><title>モニター欲しい!</title><link>https://yayoimizuha.web.app/iwantmonitor/</link><pubDate>Fri, 13 Dec 2019 01:25:22 +0900</pubDate><guid>https://yayoimizuha.web.app/iwantmonitor/</guid><description>悲惨な現状 今ディスプレイのサイズが1280x1024なんですが、これだと何をするにも人権がないので,ディスプレイを買おうと思います。
 ディスプレイは必ず使う上に割と長く使えるものだと思うので、なるべくいいものを選びたいですね。
-   画素数 色深度     4K 10bit(30bit)    ゲームはしないのでフレームレートは何でもいいです。
+画素数 色深度 4K 10bit(30bit) ゲームはしないのでフレームレートは何でもいいです。
 グラボ欲しい!! - 水葉のお部屋 でRTX 2080 Superが欲しいと書きましたが、2019年7月頃にNvidia Studio Driverというドライバーが出てGeForceでも10bit処理ができるようになっています。
 あと、黒がきれいでコントラスト比の大きいディスプレイにしたいです。種類で言えばAH-IPSとかかな？
-画像: janjf93によるPixabayからの画像</description>
-    </item>
-    
-    <item>
-      <title>Hugo Updater【製作中】</title>
-      <link>https://yayoimizuha.web.app/hugo-updater/</link>
-      <pubDate>Wed, 04 Dec 2019 02:16:46 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/hugo-updater/</guid>
-      <description>HugoのアップデートをGitHubから自動で取得してダウンロード、インストールしてほしい  [2019/12/13:追記] 部活の後輩が勢いで完成させやがってました。ｗ
+画像: janjf93によるPixabayからの画像
+※2020年2月22日　追記 LGの27UL650-Wを購入。IPSは非常に鮮やかで快適です。解像度が急に10倍になるとすごいインパクトですね。</description></item><item><title>Hugo Updater【製作中】</title><link>https://yayoimizuha.web.app/hugo-updater/</link><pubDate>Wed, 04 Dec 2019 02:16:46 +0900</pubDate><guid>https://yayoimizuha.web.app/hugo-updater/</guid><description>HugoのアップデートをGitHubから自動で取得してダウンロード、インストールしてほしい [2019/12/13:追記] 部活の後輩が勢いで完成させやがってました。ｗ
 気になったのでHugo Updaterをほぼ完成させてみたhttps://t.co/z0SmSe1H68
-&amp;mdash; net008 (@scgame_m) December 12, 2019  </description>
-    </item>
-    
-    <item>
-      <title>グラボ欲しい!!</title>
-      <link>https://yayoimizuha.web.app/graphicboard/</link>
-      <pubDate>Mon, 02 Dec 2019 03:23:11 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/graphicboard/</guid>
-      <description>グラボ欲しい!! 自分はゲームはあまりやらずひたすらCudaだけを使う感じなので普通の人とは少し目的が違うかな?
-とりあえず比較    名前 アーキテクチャ CUDA数 クロック メモリ容量     GTX 1060 Pascal 1280 1708 6   GTX 1070 Pascal 1920 1683 8   GTX 1070 ti Pascal 2432 1683 8   GTX 1080 Pascal 2560 1773 8   GTX 1080 ti Pascal 3584 1582 11   GTX 1660 ti Turing 1536 1770 6   RTX 2060 Turing 1920 1680 6   RTX 2060 SUPER Turing 2176 1650 8   RTX 2070 Turing 2304 1620 8   RTX 2070 SUPER Turing 2560 1770 8   RTX 2080 Turing 2944 1710 8   RTX 2080 SUPER Turing 3072 1815 11    とりあえず16XX番台はCudaを削って安くしている感じなのでアウト…</description>
-    </item>
-    
-    <item>
-      <title>自己紹介</title>
-      <link>https://yayoimizuha.web.app/whoami/</link>
-      <pubDate>Wed, 20 Nov 2019 01:23:17 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/whoami/</guid>
-      <description>水葉ってだれ? VTuberになりたかった中学三年生です。お金や時間の都合で今は活動できませんが、他にマルチメディアや3Dモデル制作、その他色々な制作をしています。
-プログラミング、システム構築など、大人になってからの資産になるような技術も身に着けたいですね。</description>
-    </item>
-    
-    <item>
-      <title>マークダウンのテスト</title>
-      <link>https://yayoimizuha.web.app/markdown_test/</link>
-      <pubDate>Sat, 20 Apr 2019 18:45:52 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/markdown_test/</guid>
-      <description>       Hello
+&amp;mdash; net008 (@scgame_m) December 12, 2019</description></item><item><title>グラボ欲しい!!</title><link>https://yayoimizuha.web.app/graphicboard/</link><pubDate>Mon, 02 Dec 2019 03:23:11 +0900</pubDate><guid>https://yayoimizuha.web.app/graphicboard/</guid><description>グラボ欲しい!! 自分はゲームはあまりやらずひたすらCudaだけを使う感じなので普通の人とは少し目的が違うかな?
+とりあえず比較 名前 アーキテクチャ CUDA数 クロック メモリ容量 GTX 1060 Pascal 1280 1708 6 GTX 1070 Pascal 1920 1683 8 GTX 1070 ti Pascal 2432 1683 8 GTX 1080 Pascal 2560 1773 8 GTX 1080 ti Pascal 3584 1582 11 GTX 1660 ti Turing 1536 1770 6 RTX 2060 Turing 1920 1680 6 RTX 2060 SUPER Turing 2176 1650 8 RTX 2070 Turing 2304 1620 8 RTX 2070 SUPER Turing 2560 1770 8 RTX 2080 Turing 2944 1710 8 RTX 2080 SUPER Turing 3072 1815 11 とりあえず16XX番台はCudaを削って安くしている感じなのでアウト…</description></item><item><title>自己紹介</title><link>https://yayoimizuha.web.app/whoami/</link><pubDate>Wed, 20 Nov 2019 01:23:17 +0900</pubDate><guid>https://yayoimizuha.web.app/whoami/</guid><description>水葉ってだれ? VTuberになりたかった中学三年生です。お金や時間の都合で今は活動できませんが、他にマルチメディアや3Dモデル制作、その他色々な制作をしています。
+プログラミング、システム構築など、大人になってからの資産になるような技術も身に着けたいですね。</description></item><item><title>マークダウンのテスト</title><link>https://yayoimizuha.web.app/markdown_test/</link><pubDate>Sat, 20 Apr 2019 18:45:52 +0900</pubDate><guid>https://yayoimizuha.web.app/markdown_test/</guid><description> Hello
 ss
-   タスク1 タスク2  協調
+タスク1 タスク2 協調
 協調
 打消し
 イタリック
 イタリック
 #ffce44 rgb(255,0,0) rgba(0,255,0,0.4) hsl(100, 10%, 10%) hsla(100, 24%, 40%, 0.5)
-cd srcmkdir buildcd buildcmake ..makesudo make install</description>
-    </item>
-    
-    <item>
-      <title>Mathjax対応！</title>
-      <link>https://yayoimizuha.web.app/mathjax/</link>
-      <pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/mathjax/</guid>
-      <description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
+cd src
+mkdir build
+cd build
+cmake ..
+make
+sudo make install</description></item><item><title>Mathjax対応！</title><link>https://yayoimizuha.web.app/mathjax/</link><pubDate>Sat, 20 Apr 2019 17:55:11 +0900</pubDate><guid>https://yayoimizuha.web.app/mathjax/</guid><description>MathJaxというJavaScriptライブラリを使って数式表示に対応させました‼けど&amp;hellip;何に使うんだろう…
 $$F(x) = \sum_{n=1}^{N} \frac{1}{N}$$
-$$ e^{i\pi}+1=0$$</description>
-    </item>
-    
-    <item>
-      <title>サイト内画像について</title>
-      <link>https://yayoimizuha.web.app/image_source/</link>
-      <pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/image_source/</guid>
-      <description>サイト内の画像について 当サイトで使用している画像・映像は
- ・自分でカメラ等で撮影したもの
-  ・VRoid Studio等のソフトウェアで作成したもの
-  ・下記サイトでフリーで公開されているもの
- を使用しています。
+$$ e^{i\pi}+1=0$$</description></item><item><title>サイト内画像について</title><link>https://yayoimizuha.web.app/image_source/</link><pubDate>Tue, 12 Mar 2019 03:04:35 +0900</pubDate><guid>https://yayoimizuha.web.app/image_source/</guid><description>サイト内の画像について 当サイトで使用している画像・映像は
+・自分でカメラ等で撮影したもの
+・VRoid Studio等のソフトウェアで作成したもの
+・下記サイトでフリーで公開されているもの
+を使用しています。
 私がサイト用に持ってくる画像ソースです。　 　Unsplash.com Beautiful, free photos. Gifted by the world’s most generous community of photographers. 🎁
 pixabay.com 魅力的なフリー画像 寛大なコミュニティが共有する 1.6 百万枚以上の画像や動画を発見しましょう。
-gratisography.com Quirky, Creative, Always Free Photos. The world&#39;s quirkiest collection of free high-resolution pictures, comprised of the world&#39;s best, most creative images - photos you just won&#39;t find anywhere else. All completely free of copyright restrictions.</description>
-    </item>
-    
-    <item>
-      <title>ご連絡はこちら</title>
-      <link>https://yayoimizuha.web.app/mail/</link>
-      <pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/mail/</guid>
-      <description>メールはこちら
+gratisography.com Quirky, Creative, Always Free Photos. The world's quirkiest collection of free high-resolution pictures, comprised of the world's best, most creative images - photos you just won't find anywhere else. All completely free of copyright restrictions.</description></item><item><title>ご連絡はこちら</title><link>https://yayoimizuha.web.app/mail/</link><pubDate>Mon, 11 Mar 2019 02:10:50 +0000</pubDate><guid>https://yayoimizuha.web.app/mail/</guid><description>メールはこちら
 poko.peko.tomo[a]icloud.com
 Twitterはこちら
 @yayoi_mizuha
-​ Image by ribkhan on Pixabay</description>
-    </item>
-    
-    <item>
-      <title>プライバシーポリシー</title>
-      <link>https://yayoimizuha.web.app/privacy-policy/</link>
-      <pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/privacy-policy/</guid>
-      <description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
+​ Image by ribkhan on Pixabay</description></item><item><title>プライバシーポリシー</title><link>https://yayoimizuha.web.app/privacy-policy/</link><pubDate>Wed, 06 Feb 2019 16:42:04 +0900</pubDate><guid>https://yayoimizuha.web.app/privacy-policy/</guid><description>プライバシーポリシー アクセス解析ツールについて 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
 このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
 この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
@@ -188,17 +73,4 @@ Twitterはこちら
 当サイトのコンテンツ・情報につきまして、可能な限り正確な情報を掲載するよう努めておりますが、誤情報が入り込んだり、情報が古くなっていることもございます。
 当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
 運営者　: 弥生　水葉
-初出掲載：2019年3月12日</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://yayoimizuha.web.app/hello-world/</link>
-      <pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate>
-      
-      <guid>https://yayoimizuha.web.app/hello-world/</guid>
-      <description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description>
-    </item>
-    
-  </channel>
-</rss>
+初出掲載：2019年3月12日</description></item><item><title>Hello World</title><link>https://yayoimizuha.web.app/hello-world/</link><pubDate>Sun, 13 Jan 2019 07:17:30 +0900</pubDate><guid>https://yayoimizuha.web.app/hello-world/</guid><description>投稿テスト。初投稿です。HugoでRobustテーマを使って作ってみました。</description></item></channel></rss>
